@@ -1,6 +1,6 @@
 [![github-header-image.png](https://i.postimg.cc/MKLMym8M/github-header-image.png)](https://postimg.cc/XpwYWFq4)
 <h1 align="center">Hi 👋, I'm Yunus Özkaya</h1>
-<h3 align="center">Front End Dev</h3>
+<h3 align="center">Fullstack Dev</h3>
 <img align="right" alt="Coding" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611c9b4b0347cf608c233b9d10de9b108f6da02c344&rid=giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunusozkaya&label=Profile%20views&color=0e75b6&style=flat" alt="yunusozkaya" /> </p>
