@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/jack0the0ripper" target="blank"><img src="https://img.shields.io/twitter/follow/jack0the0ripper?logo=twitter&style=for-the-badge" alt="jack0the0ripper" /></a> </p>
 
-- 🔭 I’m currently working on [iShare](https://github.com/YunusOzkaya/iShare)
+- 🔭 I’m currently working on FoodBOT
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **React JS, Java, C#**
 
